@@ -12,7 +12,7 @@ class Input:
     @staticmethod
     def check_input(initial_data):
 
-        values = str(initial_data).split(' ')
+        values = str(initial_data).lower().split(' ')
 
         if len(values) != 3:
             raise ConversionException('Ошибка: Неверное количество параметров')
