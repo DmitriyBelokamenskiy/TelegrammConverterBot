@@ -1,4 +1,4 @@
-TOKEN = '6317810396:AAFAjslLdk2nfmQhGazyprMxflV1vgzHkrY'
+TOKEN = '' # Token your bot
 
 keys = {'доллар': 'USD', 'евро': 'EUR', 'рубль': 'RUB'}
 
